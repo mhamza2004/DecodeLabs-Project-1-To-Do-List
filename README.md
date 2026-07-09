@@ -18,18 +18,18 @@ This project was developed as part of the DecodeLabs Python Programming Internsh
 - If-Else Statements
 - User Input
 - For Loop
-- enumerate()
+- `enumerate()`
 
-## Technologies
+## Technologies Used
 
 - Python 3
 - Visual Studio Code
 
 ## Author
 
-**Muhammad Hamza**
-Software Engineering Student
-Iqra University
+**Muhammad Hamza**  
+Software Engineering Student  
+Iqra University  
 
 GitHub: https://github.com/mhamza2004
 
@@ -37,12 +37,12 @@ GitHub: https://github.com/mhamza2004
 
 ### Main Menu
 
-![Output 1](output1.png)
+![Main Menu](output1.png)
 
-### Adding Tasks
+### Adding a Task
 
-![Output 2](output2.png)
+![Adding Task](output2.png)
 
 ### Viewing Tasks
 
-![Output 3](output3.png)
+![Viewing Tasks](output3.png)
